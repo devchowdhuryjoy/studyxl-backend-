@@ -13,7 +13,7 @@
   </head>
   <body class="d-flex align-items-center justify-content-center vh-100 bg-dark">
     <h1 class="text-white text-center fw-bold display-4">
-      Welcome to Study XL
+      Welcome to Study XL Main
     </h1>
 
     <!-- Bootstrap JS (optional) -->
